@@ -6,7 +6,7 @@ To get started with this project, follow these steps:
 
 1 - Clone this repository to your local machine:
 
-    git clone https://github.com/AbuQamar7379/Autonomize-AI.git
+    git clone https://github.com/AbuQamar7379/Simplotel.git
 
 2 - Open the project folder in your preferred code editor.
 
